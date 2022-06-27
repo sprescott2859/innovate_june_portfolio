@@ -1,0 +1,38 @@
+h1 {
+    font-weight: 20PX;
+    font-size: 24px;
+}
+* {
+    text-align: center;
+    text-shadow: 5rem;
+    
+}
+.body {
+background-image: url("image1.jpeg");
+size-adjust: 50px;
+flood-color: blue;
+}
+* head {
+    font: blue;
+
+}
+* #navbar {
+    text-decoration: solid;
+    text-decoration-color: rgb(218, 229, 22);
+    text-emphasis-color: pink;
+  
+    background-color: rgba(212, 94, 212, 0.678);
+    height: 40px;
+    display:flex;
+    justify-content: space-evenly;
+    align-items: center;
+}
+* {
+    background-color: rgba(137, 164, 106, 0.469);
+}
+.list {
+    align-items: center;
+}
+* .h1 {
+    color: blue;
+}
